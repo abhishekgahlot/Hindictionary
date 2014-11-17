@@ -1,3 +1,4 @@
+DOWNLOAD APK : https://github.com/agsdg/Hindictionary/blob/master/Hindictionary/bin/Hinglish.apk?raw=true
 Dictionary Android App for Hinglish-English translation
 Hindictionary
 =============
