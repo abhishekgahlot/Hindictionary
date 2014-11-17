@@ -8,6 +8,5 @@ The author of this application only knows a bit Hinglish but is very interested 
 Hinglish and talk in Hinglish in some forums and groups.
 <br>By Henry Lee(agsdg)
 
-DOWNLOAD APK : https://github.com/agsdg/Hindictionary/blob/master/Hindictionary/bin/Hinglish.apk?raw=true
-=============
+<font color="red">DOWNLOAD APK : https://github.com/agsdg/Hindictionary/blob/master/Hindictionary/bin/Hinglish.apk?raw=true</font>
 Contacts and questions: hylee09.1173@gmail.com
