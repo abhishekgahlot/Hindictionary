@@ -124,7 +124,7 @@ public class MainActivity extends ActionBarActivity {
 			 	.setMessage("Download Update now?")
 			 	.setPositiveButton("Yes", new DialogInterface.OnClickListener() {
 			 		public void onClick(DialogInterface dialog, int which) {
-			 			String url = "http://hunt.bugs3.com/hinglish/Hinglish.apk";
+			 			String url = "https://github.com/agsdg/Hindictionary/blob/master/Hindictionary/bin/Hinglish.apk?raw=true";
 			 			Intent i = new Intent(Intent.ACTION_VIEW);
 			 			i.setData(Uri.parse(url));
 			 			startActivity(i);
