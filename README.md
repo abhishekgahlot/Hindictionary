@@ -1,4 +1,4 @@
-DOWNLOAD APK : https://github.com/agsdg/Hindictionary/blob/master/Hindictionary/bin/Hinglish.apk?raw=true<br>
+<b>DOWNLOAD APK : https://github.com/agsdg/Hindictionary/blob/master/Hindictionary/bin/Hinglish.apk?raw=true<b><br>
 Dictionary Android App for Hinglish-English translation
 Hindictionary
 =============
@@ -9,5 +9,5 @@ The author of this application only knows a bit Hinglish but is very interested 
 Hinglish and talk in Hinglish in some forums and groups.
 <br>By Henry Lee(agsdg)
 
-<font color="red">DOWNLOAD APK : https://github.com/agsdg/Hindictionary/blob/master/Hindictionary/bin/Hinglish.apk?raw=true</font>
+<b>DOWNLOAD APK : https://github.com/agsdg/Hindictionary/blob/master/Hindictionary/bin/Hinglish.apk?raw=true<b>
 Contacts and questions: hylee09.1173@gmail.com
