@@ -1,7 +1,11 @@
 <b>DOWNLOAD APK : https://github.com/agsdg/Hindictionary/blob/master/Hindictionary/bin/Hinglish.apk?raw=true</b><br>
 Dictionary Android App for Hinglish-English translation
+
+
 Hindictionary
 =============
+
+<b>sorry, this service will no longer be updated.</b>
 You can <b>contribute</b> (upload) Hinglish words and definitions by clicking the contributing button!! 
 <br>We need your support!! 
 
